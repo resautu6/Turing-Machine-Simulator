@@ -1,0 +1,16 @@
+build
+build/*
+compile.sh
+bin
+bin/*
+palindrome_detector_2tapes_verbose.txt
+log
+slog
+test.py
+programs/4statebeaver.tm
+.vscode
+programs/*
+test
+test/*
+!programs/case1.tm
+!programs/case2.tm
